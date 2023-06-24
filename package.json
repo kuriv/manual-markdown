@@ -1,6 +1,6 @@
 {
   "name": "manual-markdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Markdown 手册",
   "main": "index.js",
   "directories": {
