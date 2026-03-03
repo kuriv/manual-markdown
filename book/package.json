@@ -1,13 +1,14 @@
 {
   "name": "manual-markdown",
-  "version": "1.0.4",
-  "description": "Markdown 手册",
+  "version": "1.0.5",
+  "description": "Markdown 是一种轻量级的标记语言。它允许使用易读易写的纯文本格式编写文档，然后转换成 HTML 文档。",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./ ./book"
   },
   "repository": {
     "type": "git",
